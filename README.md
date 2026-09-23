@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/guptaakshara24">GitHub</a>
   &nbsp;•&nbsp;
-  <a href="YOUR_LINKEDIN_PROFILE_URL">LinkedIn</a>
+ <a href="https://www.linkedin.com/in/akshara-gupta-015724375/">LinkedIn</a>
 </p>
 
 ---
