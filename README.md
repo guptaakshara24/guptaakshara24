@@ -62,15 +62,4 @@ Academic web development work.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=guptaakshara24&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=guptaakshara24&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
